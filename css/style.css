@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(../images/pattern.png);
+}
+
+.carousel-header img {
+  height: 600px;
+  object-fit: cover;
+}
+.container {
+  background: whitesmoke;
+}
+.part-2 {
+  margin-bottom: 50px;
+}
+.box-item {
+  width: 430px;
+  height: 220px;
+  margin-right: 30px;
+  margin-bottom: 40px;
+  background-color: whitesmoke;
+  box-shadow: 0 0 15px #bcbcbc;
+  border-radius: 5px;
+}
+
+footer {
+  height: 140px;
+  background: #609513;
+  border-radius: 5px;
+  font-size: 12px;
+  color: black;
+}
+footer a {
+  color: black;
+}
+footer h5 {
+  color: #fff;
+}
+.logo-img {
+  width: 150px;
+  height: 100px;
+  margin-right: 20px;
+}
